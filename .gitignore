@@ -1,2 +1,6 @@
 *.class
 *.log
+/count-divisors/.bsp/*
+/count-divisors/.idea/*
+/count-divisors/project/*
+/count-divisors/target/*
